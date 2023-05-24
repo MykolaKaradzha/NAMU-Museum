@@ -1,4 +1,4 @@
-git asIt`s a landing page for The Kiev NAMU Museum.
+It`s a landing page for The Kiev NAMU Museum.
 
 Landing implemented using:
 1. HTML
