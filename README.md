@@ -1,7 +1,7 @@
 [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1) - link to expected design.
-[DEMO LINK](https://MykolaKaradzha.github.io/NAMU-museum/) - link to completed landing on GH-pages.
+[DEMO LINK](https://mykolakaradzha.github.io/NAMU-Museum/) - link to completed landing on GH-pages.
 
-Landing of NAMU Museum in Kiev.
+Landing for Kiev NAMU Museum website.
 
 Landing implemented using:
 1. SCSS
